@@ -1,32 +1,33 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Data Analyst Portfolio | SQL Data Cleaning Project
 
+Welcome to my portfolio repository! This website showcases an end-to-end data cleaning project executed in SQL (MySQL), featuring real-world data transformation workflows.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+## 🌐 Live Portfolio Website
+👉 **[Click here to view my Live Portfolio](https://bingisaichandana-pixel.github.io/data-analyst-portfolio/)**
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+---
 
-(* = not included)
+## 🛠️ Project Featured: World Layoffs Data Cleaning
 
-AJ
-aj@lkn.io | @ajlkn
+### 🎯 Objective
+Transform raw, unformatted world layoffs data into a structured, reliable dataset ready for Exploratory Data Analysis (EDA).
 
+### ⚙️ Key Data Cleaning Steps Applied
+1. **Duplicate Removal:** Used `ROW_NUMBER()` over CTEs to identify and remove duplicate records.
+2. **Data Standardization:** Trimmed unwanted whitespaces, unified industry/country naming conventions, and converted string fields to standardized `DATE` values using `STR_TO_DATE`.
+3. **Null & Blank Value Handling:** Populated missing values using self-joins on matching company entries and removed irrelevant records.
+4. **Column Cleanup:** Dropped temporary calculation columns and staging tables to optimize database performance.
 
-Credits:
+---
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## 📁 Repository Structure
+* `index.html` — Portfolio layout and presentation
+* `data_cleaning.sql` — SQL queries and pipeline scripts
+* `layoffs.csv` — Raw dataset used for analysis
+* `images/` — Screenshots and visual query results
 
-	Icons:
-		Font Awesome (fontawesome.io)
+---
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## 📬 Contact & Connect
+* **GitHub:** [@bingisaichandana-pixel](https://github.com/bingisaichandana-pixel)
+*
