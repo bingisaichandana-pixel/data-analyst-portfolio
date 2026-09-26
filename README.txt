@@ -1,33 +1,50 @@
-# Data Analyst Portfolio | SQL Data Cleaning Project
+Data Analytics Portfolio
 
-Welcome to my portfolio repository! This website showcases an end-to-end data cleaning project executed in SQL (MySQL), featuring real-world data transformation workflows.
+Welcome to my personal Data Analytics Portfolio 👋
 
-## 🌐 Live Portfolio Website
-👉 **[Click here to view my Live Portfolio](https://bingisaichandana-pixel.github.io/data-analyst-portfolio/)**
+This portfolio website showcases my journey as an aspiring Data Analyst, including my projects, technical skills, dashboards, certifications, and other work related to data analytics.
+
+🚀 About the Portfolio
+
+The website is designed to provide a simple and professional overview of my:
+
+- 📊 Data Analytics Projects
+- 🛠️ Technical Skills
+- 📈 Power BI & Tableau Dashboards
+- 💻 Python & SQL Work
+- 🎓 Academic & Learning Journey
+
+🛠️ Technologies Used
+
+- HTML
+
+📂 Project Highlights
+
+Some of the projects and work showcased in this portfolio include:
+
+- Data Analytics Dashboards
+- SQL Projects
+- Python Projects
+- Data Visualization Projects
+- Excel Projects
+
+🎯 Purpose
+
+The main purpose of this portfolio is to showcase my practical learning, projects, and skills while building my career in Data Analytics.
+
+🌱 Currently Learning
+
+- SQL
+- Python for Data Analysis
+- Power BI
+- Tableau
+- Excel
+- Data Analytics
+
+👩‍💻 About Me
+
+I am a B.Tech Computer Science student specializing in Data Science and currently building my skills through hands-on projects and continuous learning.
 
 ---
 
-## 🛠️ Project Featured: World Layoffs Data Cleaning
-
-### 🎯 Objective
-Transform raw, unformatted world layoffs data into a structured, reliable dataset ready for Exploratory Data Analysis (EDA).
-
-### ⚙️ Key Data Cleaning Steps Applied
-1. **Duplicate Removal:** Used `ROW_NUMBER()` over CTEs to identify and remove duplicate records.
-2. **Data Standardization:** Trimmed unwanted whitespaces, unified industry/country naming conventions, and converted string fields to standardized `DATE` values using `STR_TO_DATE`.
-3. **Null & Blank Value Handling:** Populated missing values using self-joins on matching company entries and removed irrelevant records.
-4. **Column Cleanup:** Dropped temporary calculation columns and staging tables to optimize database performance.
-
----
-
-## 📁 Repository Structure
-* `index.html` — Portfolio layout and presentation
-* `data_cleaning.sql` — SQL queries and pipeline scripts
-* `layoffs.csv` — Raw dataset used for analysis
-* `images/` — Screenshots and visual query results
-
----
-
-## 📬 Contact & Connect
-* **GitHub:** [@bingisaichandana-pixel](https://github.com/bingisaichandana-pixel)
-*
+⭐ Thank you for visiting my portfolio repository!
