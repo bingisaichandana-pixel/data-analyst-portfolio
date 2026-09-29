@@ -1,50 +1,45 @@
-Data Analytics Portfolio
+Data Analytics Portfolio Website
 
-Welcome to my personal Data Analytics Portfolio 👋
+A personal portfolio website built to showcase my journey, skills, projects, and work as an aspiring Data Analyst.
 
-This portfolio website showcases my journey as an aspiring Data Analyst, including my projects, technical skills, dashboards, certifications, and other work related to data analytics.
+🌐 About the Project
 
-🚀 About the Portfolio
-
-The website is designed to provide a simple and professional overview of my:
+This website serves as my online portfolio where I can showcase:
 
 - 📊 Data Analytics Projects
-- 🛠️ Technical Skills
-- 📈 Power BI & Tableau Dashboards
-- 💻 Python & SQL Work
-- 🎓 Academic & Learning Journey
+- 💻 Technical Skills
+- 📈 Data Visualizations & Dashboards
+- 📜 Certifications
+- 🎓 Education
+- 👩‍💻 About Me
+- 📬 Contact Information
 
-🛠️ Technologies Used
+🛠️ Built With
 
 - HTML
-
-📂 Project Highlights
-
-Some of the projects and work showcased in this portfolio include:
-
-- Data Analytics Dashboards
-- SQL Projects
-- Python Projects
-- Data Visualization Projects
-- Excel Projects
+- CSS
+- JavaScript
 
 🎯 Purpose
 
-The main purpose of this portfolio is to showcase my practical learning, projects, and skills while building my career in Data Analytics.
+The purpose of this portfolio is to create a professional online presence and provide a single place to showcase my projects, skills, and learning journey in Data Analytics.
 
-🌱 Currently Learning
+🚀 Deployment
+
+This website is deployed using GitHub Pages.
+
+📌 Future Updates
+
+This portfolio will be continuously updated as I build more projects and develop my skills in:
 
 - SQL
-- Python for Data Analysis
+- Python
+- Excel
 - Power BI
 - Tableau
-- Excel
 - Data Analytics
-
-👩‍💻 About Me
-
-I am a B.Tech Computer Science student specializing in Data Science and currently building my skills through hands-on projects and continuous learning.
 
 ---
 
-⭐ Thank you for visiting my portfolio repository!
+⭐ This portfolio is a work in progress and will continue to grow along with my learning journey.
+
